@@ -7,8 +7,8 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>Bonjour ! Je m'appelle Mickaël Andrieu</title>
-        <meta name="description" content="Mon super CV">
+        <title>Bonjour ! Je m'appelle Sylvain TOUKAM</title>
+        <meta name="description" content="Mon CV Web">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="stylesheet" href="index.css">
     </head>
