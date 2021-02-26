@@ -91,7 +91,7 @@
                     <li>Master InfoCom</li>
                     </ul>
                 <ul class="list-content"> <!-- REMEMBER TO PUT THE URL ON THE HREF TAG  -->
-                    <li><a href="">Nom école + lien vers école</a></li>
+                    <li><a href="https://www.studi.fr/">Studi Digital Campus</a></li>
                     <li><a href="">Nom école + lien vers école</a></li>
                 
                 </ul>
